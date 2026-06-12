@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.govinda0007.twa",
+      "sha256_cert_fingerprints": [
+        "FF:E4:9B:81:C4:E5:A9:C2:BC:BE:E8:6A:6C:9B:7C:23:3F:E1:36:7D:38:CE:E9:4C:BE:8E:70:7F:46:FA:22:F1"
+      ]
+    }
+  }
+]
